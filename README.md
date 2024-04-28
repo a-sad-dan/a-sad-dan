@@ -23,8 +23,8 @@ Just a wanderer in the vast expanse of the internet, a Creative Web Designer and
 
 ## How to Reach Mission Control?
 Drop me a line via:
-- 📧 Email: [YourEmail@example.com](danishasad91@gmail.com)
-- 🌌 Instagram: [@your_instagram_handle](https://www.instagram.com/a.sad.dan)
+- 📧 Email: [danishasad91@gmail.com](danishasad91@gmail.com)
+- 🌌 Instagram: [@a-sad-dan](https://www.instagram.com/a.sad.dan)
 
 ## Let's Explore the Digital Universe! 🌌
 Come along on a journey through the infinite realms of my [Portfolio Website](https://a-sad-dan-folio.netlify.app/), where you can witness some of my cosmic creations. And if you're up for a deeper dive into the code cosmos, hop aboard my [GitHub](https://github.com/a-sad-dan) spacecraft!
